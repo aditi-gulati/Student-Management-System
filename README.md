@@ -20,3 +20,8 @@
 
 #### SEARCH STUDENTS DETAILS
 ![image](https://user-images.githubusercontent.com/83702433/210131178-fb6dabbb-62ef-4dd2-925f-7ae34393f33b.png)
+
+### Author 
+```
+Aditi Gulati
+```
